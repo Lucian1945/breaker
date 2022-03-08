@@ -1,0 +1,82 @@
+body{
+    color:red;
+}
+a{
+    color:black;
+}
+.top{
+    font-style:bold;
+    font-size:larger;
+    display:flex;
+    background-color:blue;
+    justify-content:space-between;
+}
+.logo{
+    padding-left:40px;
+    font-size:x-large;
+    font-style:bold;
+    align-self:center;
+}
+ul{
+    list-style-type:none;
+    display:flex;
+    gap:10px;
+}
+.list{
+    list-style-type:none;
+    flex-direction:column;
+}
+bold{
+    font-style:bold 45px;
+}
+.container{
+    display:flex;
+    justify-content:center;
+    align-items:left;
+    background-color:blue;
+    height:100px;
+    padding-bottom:50px;
+    gap:200px;
+}
+img{
+    width:50px;
+}
+p{
+    text-indent:10%;
+}
+.break{
+    font-weight:bold;
+    font-size:large;
+    padding-left:50%;
+}
+.begin{
+    display:flex;
+    justify-content:flex;
+    gap:10px;
+    padding-top:75px;
+    padding-bottom:150px;
+}
+.abilities{
+    display:flex;
+    gap:10px;
+}
+.box{
+    display:flex;
+    background-color:grey;
+    align-items:center;
+    padding:4%;
+    flex-direction:column;
+}
+.two{
+    padding-left:80%;
+}
+.bottom{
+    margin:50px;
+    background-color:blue;
+    display:flex;
+    flex-direction:row;
+    padding:50px;
+}
+.first{
+    padding-right:500px;
+}
